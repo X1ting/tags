@@ -1,0 +1,13 @@
+.Tag {
+  font-size: 12px;
+  border: 1px solid orange;
+  border-radius: 4px;
+  background-color: orange;
+  display: inline;
+  margin-left: 4px;
+  padding: 2px;
+}
+.close {
+  cursor: pointer;
+  margin-left: 4px;
+}
